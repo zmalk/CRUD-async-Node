@@ -1,0 +1,33 @@
+20251004	13:43:08	7c837a56-1dac-443e-bd48-eb3ae14a0767	Error: Not allowed by CORS
+20251006	10:06:26	54fb4aa3-8eb2-45ae-bafa-aa17382ffae4	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\Node.js\web_server\routes\index.html'
+20251006	10:06:54	615f8927-2921-49ed-b2aa-1bd9a3e6211d	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Desktop\Node.js\web_server\routes\views\index.html'
+20251006	10:24:56	ab08e748-166e-49e3-a825-866985da7924	TypeError: Cannot read properties of undefined (reading 'firstname')
+20251006	12:50:33	5481131c-d701-42ec-801e-6432e7adba52	TypeError: Cannot read properties of undefined (reading 'firstname')
+20251006	12:51:22	fee1d926-dbd1-4fb5-abd6-17c4dfd7decb	TypeError: Cannot read properties of undefined (reading 'firstname')
+20251006	12:55:35	4856292d-e74a-4216-821c-d43ce0d079e3	TypeError: Cannot read properties of undefined (reading 'firstname')
+20251006	12:55:40	5225402d-b45b-4662-ade4-cf548b40d873	TypeError: Cannot read properties of undefined (reading 'firstname')
+20251006	13:00:37	53e6cd77-860f-4cf1-be80-9eddd2408845	TypeError: Cannot read properties of undefined (reading 'firstname')
+20251006	13:00:44	75366844-f13d-48d9-b070-fce246e2c45f	TypeError: Cannot read properties of undefined (reading 'firstname')
+20251006	13:01:04	7472437a-39c8-4960-9f55-b9e33b2aa077	TypeError: Cannot read properties of undefined (reading 'firstname')
+20251006	13:01:13	c5b35194-535b-4309-8dd1-a90bf6027888	TypeError: Cannot read properties of undefined (reading 'firstname')
+20251006	13:01:45	1e4ebcb4-b18d-40a9-b68d-ad6a0d765296	TypeError: Cannot read properties of undefined (reading 'firstname')
+20251006	13:01:47	b2560502-e011-4da4-b7ea-bc286295f1c9	TypeError: Cannot read properties of undefined (reading 'firstname')
+20251008	11:02:34	d02dabd4-a21f-4cf1-a735-565eb74a59ca	TypeError: Cannot read properties of undefined (reading 'firstname')
+20251008	11:45:42	170f7182-3812-4ee5-b0aa-2d35f7c3462f	TypeError: Cannot read properties of undefined (reading 'find')
+20251008	12:09:26	4207c6fd-43a5-4e11-87e9-6674968118df	TypeError: res.sendStauts is not a function
+20251008	12:12:06	2aa04893-372d-43ef-a09f-f38b57fb3d16	TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+20251011	10:13:04	76fba03a-08b9-4104-b5b6-52a0c3a48c9f	TypeError: Cannot read properties of undefined (reading 'firstname')
+20251011	10:13:06	211b822b-8450-4254-a30f-8e8d4b36939d	TypeError: Cannot read properties of undefined (reading 'firstname')
+20251011	10:13:07	705488d8-7dae-4871-85a2-b3900000add2	TypeError: Cannot read properties of undefined (reading 'firstname')
+20251011	10:13:08	8ccf45b8-079e-46b2-92fb-ccd4b854cb6b	TypeError: Cannot read properties of undefined (reading 'firstname')
+20251011	10:13:29	f3d868fb-35bf-43fe-b013-1191da55eae4	TypeError: Cannot read properties of undefined (reading 'firstname')
+20251011	10:13:29	f3db936c-53df-4b86-950a-551b41475a40	TypeError: Cannot read properties of undefined (reading 'firstname')
+20251011	10:13:30	85dfe9b1-eb0a-4449-b62d-9d1ed6ee6646	TypeError: Cannot read properties of undefined (reading 'firstname')
+20251013	12:17:23	60b0e77f-7588-49bd-913d-53cf0a236f6c	TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+20251013	12:20:00	25ea8472-db67-4a48-829c-fac8a62fe36e	TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+20251015	11:15:36	bf448d90-93b5-4d82-8132-7475becf6883	TypeError: Cannot convert undefined or null to object
+20251015	11:16:02	289fa2e7-5612-43eb-920a-c7214a0763b7	TypeError: Cannot convert undefined or null to object
+20251015	11:23:07	cbba403f-2388-4489-9246-1770c929ec55	TypeError: Cannot read properties of undefined (reading 'username')
+20251015	11:23:08	062e5142-8ad4-4d95-ae10-b973ea763525	TypeError: Cannot read properties of undefined (reading 'username')
+20251015	11:23:10	51942b9e-d02d-4519-9c85-dd436ad3c90d	TypeError: Cannot read properties of undefined (reading 'username')
+20251015	11:23:11	a5ed3826-09cb-4e64-902e-0d9693382361	TypeError: Cannot read properties of undefined (reading 'username')
